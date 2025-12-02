@@ -1,7 +1,5 @@
+# I'm **[Hoang Trung]**
 ### AI Engineer | MLOps
-
-🚀 I build, deploy, and optimize machine learning systems — turning models into real products.  
-I focus on **AI engineering**, and **MLOps pipelines** that scale.
 
 ---
 
@@ -21,21 +19,6 @@ I focus on **AI engineering**, and **MLOps pipelines** that scale.
 
 **Cloud:**  
 - AWS / GCP / Azure  
-
----
-
-## 📌 What I Work On
-- Designing **automated ML pipelines** (ETL → training → evaluation → deployment)  
-- Distributed inference & scalable model serving  
-- Model monitoring, logging, and drift detection  
-
----
-
-## 🔭 Current Focus
-- RAG architecture & LLMOps  
-- Fine-tuning LLMs (LoRA / QLoRA)  
-- Model performance optimization  
-- Observability in AI systems  
 
 ---
 
