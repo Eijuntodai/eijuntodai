@@ -1,31 +1,45 @@
-AI Engineer | MLOps | LLM Applications
+### AI Engineer | MLOps
 
-🚀 I build, deploy, and optimize machine learning systems — from experimentation to production.
-I focus on LLM engineering, model serving, pipeline automation, and scalable ML infrastructure.
+🚀 I build, deploy, and optimize machine learning systems — turning models into real products.  
+I focus on **AI engineering**, and **MLOps pipelines** that scale.
 
-🔧 Tech Stack
+---
 
-AI/ML: PyTorch, TensorFlow, HuggingFace, LangChain, OpenAI API
+## 🔧 Tech Stack
 
-MLOps: MLflow, Weights & Biases, Airflow, Kubeflow
+**AI & ML:**  
+- PyTorch, TensorFlow, HuggingFace, Scikit-learn  
+- LangChain, OpenAI API, RAG systems  
 
-Model Serving: FastAPI, Docker, Kubernetes, Ray Serve
+**MLOps:**  
+- MLflow, Weights & Biases, Airflow, Kubeflow  
+- CI/CD for ML, model registry, automated pipelines  
 
-Cloud: AWS / GCP / Azure
+**Model Serving & Infra:**  
+- FastAPI, gRPC, Docker, Kubernetes, Ray Serve  
+- GPU optimization, vector databases  
 
-Data: Spark, Delta Lake, PostgreSQL
+**Cloud:**  
+- AWS / GCP / Azure  
 
+---
 
-🔭 Current Focus
+## 📌 What I Work On
+- Designing **automated ML pipelines** (ETL → training → evaluation → deployment)  
+- Distributed inference & scalable model serving  
+- Model monitoring, logging, and drift detection  
 
-RAG systems
+---
 
-LLM fine-tuning (LoRA / QLoRA)
+## 🔭 Current Focus
+- RAG architecture & LLMOps  
+- Fine-tuning LLMs (LoRA / QLoRA)  
+- Model performance optimization  
+- Observability in AI systems  
 
-Model observability & drift detection
+---
 
-MLOps best practices for end-to-end AI products
+## 📫 Contact
+📩 Email: **trung.hoang796@hmcut.edu.vn**  
 
-📫 Contact
-
-📩 Email: trung.hoang796@hcmut.edu.vn
+---
