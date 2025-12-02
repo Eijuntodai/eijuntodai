@@ -1,16 +1,31 @@
-## Hi there 👋
+AI Engineer | MLOps | LLM Applications
 
-<!--
-**Eijuntodai/eijuntodai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build, deploy, and optimize machine learning systems — from experimentation to production.
+I focus on LLM engineering, model serving, pipeline automation, and scalable ML infrastructure.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI/ML: PyTorch, TensorFlow, HuggingFace, LangChain, OpenAI API
+
+MLOps: MLflow, Weights & Biases, Airflow, Kubeflow
+
+Model Serving: FastAPI, Docker, Kubernetes, Ray Serve
+
+Cloud: AWS / GCP / Azure
+
+Data: Spark, Delta Lake, PostgreSQL
+
+
+🔭 Current Focus
+
+RAG systems
+
+LLM fine-tuning (LoRA / QLoRA)
+
+Model observability & drift detection
+
+MLOps best practices for end-to-end AI products
+
+📫 Contact
+
+📩 Email: trung.hoang796@hcmut.edu.vn
