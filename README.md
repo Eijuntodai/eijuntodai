@@ -39,6 +39,6 @@
 📩 Email: **trung.hoang796@hmcut.edu.vn**  
 
 <p align="center"> 
-## I. List of my Projects
+ <strong>I. List of my Projects.</strong>
 </p>
 
