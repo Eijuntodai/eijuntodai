@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Logging-ELK%20stack-yellow"> 
 </p>
 
-##🛠️ Tools & Infrastructure
+## 🛠️ Tools & Infrastructure
 <p align="center"> 
 <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white"> 
 <img src="https://img.shields.io/badge/Bash%20Scripting-121011">
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
 </p>
 
-##💻 Programming
+## 💻 Programming
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> 
@@ -38,4 +38,7 @@
 ## 📫 Contact
 📩 Email: **trung.hoang796@hmcut.edu.vn**  
 
-# I. List of my Projects
+<p align="center"> 
+## I. List of my Projects
+</p>
+
